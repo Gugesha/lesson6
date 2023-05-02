@@ -1,0 +1,44 @@
+.headerdiv{
+    text-align: center;
+    margin: 80px auto 48px auto;
+    width: 1336px;
+    height:178px
+    
+}
+.h3add{
+    color: #282828;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: 'Inter'
+    
+    
+}
+.h2add{
+    color: #282828;
+    margin-top: 4px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 62px;
+    font-family: 'Inter'
+    
+}
+.ptext{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+    width: 760px;
+    margin: 0 auto;
+    color: #5F6980;
+    font-family: 'Inter'
+    
+}
+.upperdiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 1336px;
+    height: 908px;
+}
