@@ -42,3 +42,18 @@
     width: 1336px;
     height: 908px;
 }
+.footer{
+    height: 439px;
+    background-color: #535353;
+}
+.footerdiv{
+    Width:1306px;
+    Height:223px;
+    display: flex;
+    justify-content: space-around;
+}
+.pitem{
+    width:306.05px;
+    margin-top: 32px;
+    margin-bottom: 30.05px; 
+}
